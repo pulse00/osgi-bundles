@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Export-Package: org.yaml.snakeyaml.util,org.yaml.snakeyaml.parser,org.
+ yaml.snakeyaml.serializer,org.yaml.snakeyaml.introspector,org.yaml.sn
+ akeyaml.external.com.google.gdata.util.common.base,org.yaml.snakeyaml
+ .composer,org.yaml.snakeyaml.tokens,org.yaml.snakeyaml.extensions.com
+ pactnotation,org.yaml.snakeyaml.reader,org.yaml.snakeyaml.scanner,org
+ .yaml.snakeyaml.resolver,org.yaml.snakeyaml.error,org.yaml.snakeyaml.
+ emitter,org.yaml.snakeyaml.nodes,org.yaml.snakeyaml.representer,org.y
+ aml.snakeyaml.external.biz.base64Coder,org.yaml.snakeyaml.events,org.
+ yaml.snakeyaml.constructor,org.yaml.snakeyaml
+Embed-Directory: jars
+Bundle-ClassPath: jars/snakeyaml-1.13-SNAPSHOT.jar
+Built-By: sobert
+Tool: Bnd-0.0.357
+Bundle-Name: org.yaml.snakeyaml
+Created-By: Apache Maven Bundle Plugin
+Build-Jdk: 1.7.0_13
+Bundle-Version: 0.0.1.SNAPSHOT
+Bnd-LastModified: 1364900503659
+Embed-Transitive: true
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.yaml.snakeyaml
+Embed-Dependency: snakeyaml
+Import-Package: org.yaml.snakeyaml,org.yaml.snakeyaml.composer,org.yam
+ l.snakeyaml.constructor,org.yaml.snakeyaml.emitter,org.yaml.snakeyaml
+ .error,org.yaml.snakeyaml.events,org.yaml.snakeyaml.extensions.compac
+ tnotation,org.yaml.snakeyaml.external.biz.base64Coder,org.yaml.snakey
+ aml.external.com.google.gdata.util.common.base,org.yaml.snakeyaml.int
+ rospector,org.yaml.snakeyaml.nodes,org.yaml.snakeyaml.parser,org.yaml
+ .snakeyaml.reader,org.yaml.snakeyaml.representer,org.yaml.snakeyaml.r
+ esolver,org.yaml.snakeyaml.scanner,org.yaml.snakeyaml.serializer,org.
+ yaml.snakeyaml.tokens,org.yaml.snakeyaml.util
+
