@@ -16,7 +16,7 @@ Bundle-Name: org.yaml.snakeyaml
 Created-By: Apache Maven Bundle Plugin
 Build-Jdk: 1.7.0_13
 Bundle-Version: 0.0.1.SNAPSHOT
-Bnd-LastModified: 1364900503659
+Bnd-LastModified: 1364900727567
 Embed-Transitive: true
 Bundle-ManifestVersion: 2
 Bundle-SymbolicName: org.yaml.snakeyaml

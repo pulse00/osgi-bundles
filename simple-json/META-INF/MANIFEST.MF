@@ -6,7 +6,7 @@ Bundle-Name: org.json.simple
 Created-By: Apache Maven Bundle Plugin
 Build-Jdk: 1.7.0_13
 Bundle-Version: 0.0.1.SNAPSHOT
-Bnd-LastModified: 1364900504272
+Bnd-LastModified: 1364900728089
 Embed-Transitive: true
 Bundle-ManifestVersion: 2
 Bundle-SymbolicName: org.json.simple
