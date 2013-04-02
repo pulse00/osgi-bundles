@@ -4,9 +4,9 @@ Built-By: sobert
 Tool: Bnd-0.0.357
 Bundle-Name: org.json.simple
 Created-By: Apache Maven Bundle Plugin
-Build-Jdk: 1.7.0_13
+Build-Jdk: 1.7.0_08-ea
 Bundle-Version: 0.0.1.SNAPSHOT
-Bnd-LastModified: 1364900728089
+Bnd-LastModified: 1364933691015
 Embed-Transitive: true
 Bundle-ManifestVersion: 2
 Bundle-SymbolicName: org.json.simple

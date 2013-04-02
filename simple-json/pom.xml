@@ -5,7 +5,7 @@
 
 	<parent>
 		<groupId>com.dubture.osgi</groupId>
-		<artifactId>osgi-parent</artifactId>
+		<artifactId>osgi-bundles-parent</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 
@@ -27,11 +27,12 @@
 				<extensions>true</extensions>
 				<configuration>
 					<instructions>
-						<Embed-Dependency>json-simple;inline=true</Embed-Dependency>
+						<Embed-Dependency>json-simple</Embed-Dependency>
 						<_exportcontents>org.json.simple.*</_exportcontents>
 						<Bundle-ClassPath>{maven-dependencies}</Bundle-ClassPath>
 						<Bundle-SymbolicName>org.json.simple</Bundle-SymbolicName>
 						<Embed-Transitive>true</Embed-Transitive>
+						<Embed-Directory>jars</Embed-Directory>
 						<_failok>true</_failok>
 						<_nouses>true</_nouses>
 					</instructions>

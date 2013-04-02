@@ -3,7 +3,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.dubture.osgi</groupId>
-	<artifactId>osgi-parent</artifactId>
+	<artifactId>osgi-bundles-parent</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
@@ -45,7 +45,7 @@
 	</dependencyManagement>
 
 	<build>
-		<pluginManagement>
+		<pluginManagement>			
 			<plugins>
 				<plugin>
 					<artifactId>maven-jar-plugin</artifactId>
