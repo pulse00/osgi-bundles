@@ -34,7 +34,7 @@
 			<dependency>
 				<groupId>org.yaml</groupId>
 				<artifactId>snakeyaml</artifactId>
-				<version>1.13-SNAPSHOT</version>
+				<version>1.13</version>
 			</dependency>
 			<dependency>
 				<groupId>com.googlecode.json-simple</groupId>
@@ -45,7 +45,7 @@
 	</dependencyManagement>
 
 	<build>
-		<pluginManagement>			
+		<pluginManagement>
 			<plugins>
 				<plugin>
 					<artifactId>maven-jar-plugin</artifactId>
